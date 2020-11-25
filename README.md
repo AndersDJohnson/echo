@@ -1,5 +1,5 @@
 # echo
 
 ```sh
-$ echo HI
+$ echo hello
 ```
